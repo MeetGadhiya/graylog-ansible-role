@@ -49,4 +49,4 @@
           }
 
   roles:
-    - role: "../../role"
+    role: "../../role"
